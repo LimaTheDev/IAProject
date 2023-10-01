@@ -1,6 +1,5 @@
 from prophet import Prophet
 from prophet.plot import plot_plotly
-import plotly_express as px
 from AnalisesPreditivas import treinamento
 
 
